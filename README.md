@@ -73,6 +73,9 @@ The Fees Management System utilizes **SQLite3** as its database, ensuring effici
 ### 📸 Student Details
 ![Student Details](Outputs/Student%20Details.png)
 
+### 📸 Balance Fees
+![Dashboard](Outputs/Screenshot%20(14).png)
+
 ### 📸 Subject Wise Students
 ![Subject Wise Students](Outputs/Subject%20Wise%20Students.png)
 
@@ -85,14 +88,11 @@ The Fees Management System utilizes **SQLite3** as its database, ensuring effici
 ### 📸 Sign Up Page
 ![Sign Up Page](Outputs/Sign%20Up%20Page.png)
 
-### 📸 Balance Fees
-![Dashboard](Outputs/Screenshot%20(14).png)
 
-
-### 👨‍💻 Authors
+## 👨‍💻 Authors
 
 [@VikasPuri](https://github.com/Vikaspuri1830)
 
-### 💬 Feedback
+## 💬 Feedback
 
 If you have any feedback, please reach out to us at vikaspuri1830@gmail.com
