@@ -47,7 +47,7 @@ The Fees Management System utilizes **SQLite3** as its database, ensuring effici
 - **Data Integrity**: Constraints like **FOREIGN KEY** and **CHECK** ensured data consistency.
 
 ## 📌 Required Software
-- **Python 3.x** (must be installed before running the project)
+- **Python** (must be installed before running the project)
 - **SQLiteStudio** (for database visualization, optional but recommended)
 - **PyCharm / VS Code** (for better development experience)
 
