@@ -41,28 +41,6 @@ This project is a **Python-based Fees Management System** designed to streamline
 - **SQLiteStudio** (for database visualization, optional but recommended)
 - **PyCharm / VS Code** (for better development experience)
 
-## 🚀 Run Locally
-
-### 1️⃣ Clone the Project
-```bash
-  git clone https://github.com/your-github-username/fees-management-system.git
-```
-
-### 2️⃣ Move into the Project Folder
-```bash
-cd fees-management-system
-```
-
-### 3️⃣ Install Required Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Run the Application
-```bash
-python main.py
-```
-
 ## 📬 Contact
 📧 **Email:** vikaspuri1830@gmail.com  
 🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
