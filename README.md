@@ -36,6 +36,16 @@ This project is a **Python-based Fees Management System** designed to streamline
   - Generates summary reports of total fees collected and pending dues.
   - Displays real-time updates on financial transactions.
 
+## 🗄️ SQL Implementation
+
+The Fees Management System utilizes **SQLite3** as its database, ensuring efficient data storage and retrieval.
+
+### 🔹 How SQL Solved the Problem
+- **Efficient Data Management**: Storing student and fee records in a structured database eliminated manual tracking.
+- **Quick Data Retrieval**: Optimized SQL queries allowed for seamless search and reporting functionalities.
+- **Automation**: Automatic calculations of pending and paid fees simplified administrative tasks.
+- **Data Integrity**: Constraints like **FOREIGN KEY** and **CHECK** ensured data consistency.
+
 ## 📌 Required Software
 - **Python 3.x** (must be installed before running the project)
 - **SQLiteStudio** (for database visualization, optional but recommended)
@@ -47,11 +57,6 @@ This project is a **Python-based Fees Management System** designed to streamline
 
 
 ## 📸 Project Screenshots
-
-### 🎯 Dashboard View
-![Dashboard](Outputs/Add Student.png)
-
-## 📸 Screenshots
 
 ### 📸 Login Page
 ![Login Page](Outputs/Login%20Page.png)
