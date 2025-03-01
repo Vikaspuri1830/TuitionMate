@@ -91,7 +91,7 @@ The Fees Management System utilizes **SQLite3** as its database, ensuring effici
 
 ### 👨‍💻 Authors
 
-@VikasPuri
+[@VikasPuri](https://github.com/Vikaspuri1830)
 
 ### 💬 Feedback
 
