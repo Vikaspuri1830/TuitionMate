@@ -53,42 +53,41 @@ This project is a **Python-based Fees Management System** designed to streamline
 
 ## 📸 Screenshots
 
-### 🎯 Login Page
+### 📸 Login Page
 ![Login Page](Outputs/Login%20Page.png)
 
-### 🎯 Sign Up Page
-![Sign Up Page](Outputs/Sign%20Up%20Page.png)
-
-### 🎯 Add Student
+### 📸 Add Student
 ![Add Student](Outputs/Add%20Student.png)
 
-### 🎯 Pay Fees
+### 📸 Pay Fees
 ![Pay Fees](Outputs/Pay%20Fees.png)
 
-### 🎯 Payment Details
+### 📸 Payment Details
 ![Payment Details](Outputs/Payment%20Details.png)
 
-### 🎯 Student Details
+### 📸 Student Details
 ![Student Details](Outputs/Student%20Details.png)
 
-### 🎯 Subject Wise Students
+### 📸 Subject Wise Students
 ![Subject Wise Students](Outputs/Subject%20Wise%20Students.png)
 
-### 🎯 Update Subject Fees
+### 📸 Update Subject Fees
 ![Update Subject Fees](Outputs/Update%20Subject%20Fees.png)
 
-### 🎯 Recover Account Page
+### 📸 Recover Account Page
 ![Recover Account Page](Outputs/Recover%20Account%20Page.png)
 
-### 🎯 Dashboard View
+### 📸 Sign Up Page
+![Sign Up Page](Outputs/Sign%20Up%20Page.png)
+
+### 📸 Balance Fees
 ![Dashboard](Outputs/Screenshot%20(14).png)
 
 
-
-👨‍💻 Authors
+### 👨‍💻 Authors
 
 @VikasPuri
 
-💬 Feedback
+### 💬 Feedback
 
 If you have any feedback, please reach out to us at vikaspuri1830@gmail.com
