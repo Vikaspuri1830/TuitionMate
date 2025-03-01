@@ -43,9 +43,21 @@ This project is a **Python-based Fees Management System** designed to streamline
 
 ## 📬 Contact
 📧 **Email:** vikaspuri1830@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
+🔗 **LinkedIn:** [http://www.linkedin.com/in/puri-vikas](#)  
 
----
 
-This **Fees Management System** simplifies the financial tracking process for institutions, making fee collection and reporting more efficient. Feel free to contribute or suggest improvements! 🚀
+## 📸 Project Screenshots
 
+### 🎯 Dashboard View
+![Dashboard](Outputs/Add Student.png)
+
+
+
+
+👨‍💻 Authors
+
+@VikasPuri
+
+💬 Feedback
+
+If you have any feedback, please reach out to us at vikaspuri1830@gmail.com
