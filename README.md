@@ -1,4 +1,4 @@
-# 📊 Fees Management System
+# 📊 TuitionMate
 
 ## 🎯 Objective
 This project is a **Python-based Fees Management System** designed to streamline fee tracking and financial management processes for educational institutions or coaching classes. It provides an intuitive **Tkinter GUI** for seamless user interaction and leverages **SQLite3** as the backend database for efficient data storage and retrieval.
